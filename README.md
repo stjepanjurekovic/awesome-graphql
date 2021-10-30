@@ -706,6 +706,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Practical GraphQL](https://leanpub.com/book-graphql) by Daniel Schmitz
 * [Production Ready GraphQL](https://book.productionreadygraphql.com) by Marc-André Giroux
 * [Full Stack GraphQL Applications](https://www.manning.com/books/fullstack-graphql-applications) by William Lyon
+* [GraphQL in Action](https://www.manning.com/books/graphql-in-action) by Samer Buna
 
 <a name="video" />
 
